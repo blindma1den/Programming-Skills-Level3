@@ -104,7 +104,7 @@ The program must quote the price of the home according to: square meters, number
 4. United Direct: The Manchester United's Shop
 
 
-ChatGPT
+
 United Direct, the official store of Manchester United FC, has hired you as a developer for their online store. The manager wishes to launch a new line of products with different discounts.
 
 Develop the shopping cart of this application considering the following features:
@@ -119,6 +119,7 @@ If you are a club member, you get a 20% discount on the total purchase.
 The user can buy as many jerseys as they want.
 If the buyer wishes to personalize their jersey with a player's number, there is an additional charge of £25.
 The stock is as follows:
+
 FOR MEN:
 
 First kit short-sleeved jersey: 100 units
