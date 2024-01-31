@@ -1,0 +1,195 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Manchester United Line Up
+
+You are the Manager of Manchester United FC, and your objective is to defeat Tottenham Hotspur. To achieve this, you must consider the power level of your players and choose the appropriate line-up against your opponent. Select 11 players from your team.
+
+Tottenham Hotspur:
+Goalkeepers
+
+Hugo Lloris 85 pts
+Guglielmo Vicario 79 pts
+Fraser Forster 79 pts
+Brandon Austin 79 pts
+Defenders
+Eric Dier 80 pts
+Cristian Romero 80 pts
+Davinson Sánchez 74 pts
+Japhet Tanganga 70 pts
+Matt Doherty 70 pts
+Djed Spence 70 pts
+Sergio Reguilón 74 pts
+Ben Davies 76 pts
+Joe Rodon 70 pts
+Mislav Orsic 71 pts
+Midfielders
+Oliver Skipp 70 pts
+Pierre-Emile Højbjerg 70 pts
+Yves Bissouma 72 pts
+James Maddison 74 pts
+Giovani Lo Celso 78 pts
+Ryan Sessegnon 80 pts
+Dejan Kulusevski 60 pts
+Pape Sarr 65 pts
+Rodrigo Bentancur 65 pts
+Oliver Skipp 65 pts
+Forwards
+Son Heung-Min 78 pts
+Richarlison 82 pts
+Bryan Gil 80 pts
+Timo Werner 82 pts
+Brennan Johnson 70 pts
+Manor Solomon 70 pts
+Alejo Véliz 75 pts
+Dane Scarlett 75 pts
+Manchester United:
+Goalkeepers
+
+André Onana 80 pts
+Tom Heaton 75 pts
+Altay Bayindir 69 pts
+Defenders
+Victor Lindelöf 80 pts
+Harry Maguire 82 pts
+Lisandro Martínez 82 pts
+Tyrell Malacia 67 pts
+Raphaël Varane 80 pts
+Diogo Dalot 89 pts
+Luke Shaw 89 pts
+Aaron Wan-Bissaka 70 pts
+Midfielders
+Sofyan Amrabat 76 pts
+Scott McTominay 80 pts
+Bruno Fernandes 88 pts
+Christian Eriksen 67 pts
+Mason Mount 77 pts
+Kobbie Mainoo 65 pts
+Daniel Gore 60 pts
+Forwards
+Anthony Martial 50 pts
+Marcus Rashford 76 pts
+Antony 75 pts
+Rasmus Højlund 80 pts
+Alejandro Garnacho 85 pts
+Facundo Pellistri: 75 pts
+How it works: The system will randomly generate 11 Tottenham Hotspur players, comprising 1 goalkeeper, 3 midfielders, and 3 strikers.
+
+As the Manager of Manchester United, you must select 11 players following the same system: 4-3-3.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Amazon Software Engineer 
+
+Amazon has hired you as a software engineer. Your first task is to create a system that allows calculating the price of shipping based on distance. Fulfill the following requirements:
+Amazon has one branch in each state of the USA.
+Research the approximate distance between each pair of states.
+The price is $50 USD per kilometer.
+The minimum number of packages to transport is 100, and the maximum is 500.
+If the number of packages exceeds 200, a larger vehicle should be recommended, with a price of $60 USD per kilometer.
+Based on the distance, the system should calculate an estimated delivery time.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Real State Rent System 
+
+
+A real estate agency has 5 homes for rent. The homes are characterized by their size, number of bedrooms, number of bathrooms, and location. The rental price of a home is calculated based on these factors.
+Features:
+
+First home: 200 square meters, 3 bedrooms, 2 bathrooms
+Second home: 150 square meters, 2 bedrooms, 2 bathrooms
+Third home: 100 square meters, 2 bedrooms, 1 bathroom
+Fourth home: 100 square meters, 1 bedroom, 2 bathrooms
+Fifth home: 80 square meters, 1 bedroom, 1 bathroom
+The program must quote the price of the home according to: square meters, number of bedrooms, and number of bathrooms. Each bedroom adds $40, and each bathroom adds $30. Each square meter has a cost of $90.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4. United Direct: The Manchester United's Shop
+
+
+ChatGPT
+United Direct, the official store of Manchester United FC, has hired you as a developer for their online store. The manager wishes to launch a new line of products with different discounts.
+
+Develop the shopping cart of this application considering the following features:
+
+The jerseys are classified by: Men, Women, and Children.
+Sizes range from XS to 3XL.
+All men's and women's jerseys are priced at £100 if they are short-sleeved.
+Long-sleeved jerseys cost £120.
+Short-sleeved children's jerseys are priced at £70.
+Long-sleeved children's jerseys are priced at £90.
+If you are a club member, you get a 20% discount on the total purchase.
+The user can buy as many jerseys as they want.
+If the buyer wishes to personalize their jersey with a player's number, there is an additional charge of £25.
+The stock is as follows:
+FOR MEN:
+
+First kit short-sleeved jersey: 100 units
+First kit long-sleeved jersey: 90 units
+Second kit short-sleeved jersey: 80 units
+Second kit long-sleeved jersey: 80 units
+Third kit short-sleeved jersey: 85 units
+Third kit long-sleeved jersey: 50 units
+FOR WOMEN:
+
+First kit short-sleeved jersey: 105 units
+First kit long-sleeved jersey: 92 units
+Second kit short-sleeved jersey: 81 units
+Second kit long-sleeved jersey: 81 units
+Third kit short-sleeved jersey: 85 units
+Third kit long-sleeved jersey: 51 units
+FOR CHILDREN:
+
+First kit short-sleeved jersey: 200 units
+First kit long-sleeved jersey: 100 units
+Second kit short-sleeved jersey: 85 units
+Second kit long-sleeved jersey: 85 units
+Third kit short-sleeved jersey: 90 units
+Third kit long-sleeved jersey: 62 units
+
+IMPORTANT: You decide how many sizes are available for each available shirt size.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. British Airplanes Startup 
+
+A British start-up specializing in the manufacturing of high-security, high-speed aircraft seeks to calculate the prices of its planes based on the following characteristics: Aircraft size, VIP seats, economy class seats, material quality, security system, and speed level.
+Currently, it offers 3 types of aircraft ready for sale.
+
+Wayne Rooney Plane:
+Quality AAA
+200 economy class seats
+70 VIP seats
+90 square meters
+Security system AAA
+Speed level AAA
+Eric Cantona Plane:
+Quality AAA
+150 economy class seats
+80 VIP seats
+110 square meters
+Security system AAA
+Speed level AA
+Bobby Charlton Plane:
+Quality AA
+100 economy class seats
+40 VIP seats
+120 square meters
+Security system AA
+Speed level A
+The AAA material costs £60,000.
+The AA material costs £54,000.
+The A material costs £48,000.
+
+The AAA security system costs £75,000.
+The AA security system costs £68,000.
+The A security system costs £59,000.
+
+The AAA speed level costs £89,000.
+The AA speed level costs £78,000.
+The A speed level costs £70,000.
+
+In the Wayne Rooney and Eric Cantona planes, each economy class seat costs £400, and each VIP seat costs £1200.
+
+In the Bobby Charlton plane, each economy class seat costs £300, and each VIP seat costs £1000.
+
+
+@blindma1den
+
+Enjoy Coding :)
